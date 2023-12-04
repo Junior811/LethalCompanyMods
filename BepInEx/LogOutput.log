@@ -1,0 +1,1045 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (11/18/2023 2:27:00 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 9 plugins to load
+[Info   :   BepInEx] Loading [BiggerLobby 2.4.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [BrutalCompanyPlus 2.1.0]
+[Info   :BrutalCompanyPlus] Loaded Brutal Company Plus and applying patches.
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.3.1]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.2.9]
+[Info   :ReservedItemSlotCore] BindingConfigs
+[Info   :ReservedItemSlotCore] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [FreddyBracken 1.0.2]
+[Info   :FreddyBracken] Plugin FreddyBracken is loaded!
+[Info   :   BepInEx] Loading [LC_API 2.1.1]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.1]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.1!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 1 AssetBundles to load!
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\freddy.bundle
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Message:    LC_API] server pre-setup success
+[Warning:BrutalCompanyPlus] Modifying the Starting Quota Values
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] Adding 2 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Finished adding 1 Reserved Item slots in the inventory HUD.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] scelfcontrol responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] damiandiamante responded with these mods:
+BiggerLobby
+BrutalCompanyPlus
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] scelfcontrol responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] damiandiamante responded with these mods:
+BiggerLobby
+BrutalCompanyPlus
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] mcr responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] scelfcontrol responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 0
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Tampakillers responded with these mods:
+BiggerLobby
+BrutalCompanyPlus
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] mcr responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] damiandiamante responded with these mods:
+BiggerLobby
+BrutalCompanyPlus
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+x753.More_Suits
+[Warning:    LC_API] scelfcontrol responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedItemSlotCore
+FreddyBracken
+LC_API
+RickArg.lethalcompany.helmetcameras
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 19
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 90
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 79
+[Warning:BrutalCompanyPlus] Centipede rarity set to 91
+[Warning:BrutalCompanyPlus] Blob rarity set to 63
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 38
+[Warning:BrutalCompanyPlus] Spring rarity set to 3
+[Warning:BrutalCompanyPlus] Crawler rarity set to 29
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 76
+[Warning:BrutalCompanyPlus] Jester rarity set to 18
+[Warning:BrutalCompanyPlus] Puffer rarity set to 65
+[Warning:BrutalCompanyPlus] Map Objects
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 19
+[Info   :BrutalCompanyPlus] Lasso--rarity = 90
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 79
+[Info   :BrutalCompanyPlus] Centipede--rarity = 91
+[Info   :BrutalCompanyPlus] Blob--rarity = 63
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 38
+[Info   :BrutalCompanyPlus] Spring--rarity = 3
+[Info   :BrutalCompanyPlus] Crawler--rarity = 29
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 76
+[Info   :BrutalCompanyPlus] Jester--rarity = 18
+[Info   :BrutalCompanyPlus] Puffer--rarity = 65
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 3
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 3
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 30
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 17
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 60
+[Warning:BrutalCompanyPlus] Centipede rarity set to 73
+[Warning:BrutalCompanyPlus] Blob rarity set to 87
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 40
+[Warning:BrutalCompanyPlus] Spring rarity set to 5
+[Warning:BrutalCompanyPlus] Crawler rarity set to 35
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 66
+[Warning:BrutalCompanyPlus] Jester rarity set to 47
+[Warning:BrutalCompanyPlus] Puffer rarity set to 71
+[Warning:BrutalCompanyPlus] Map Objects
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 30
+[Info   :BrutalCompanyPlus] Lasso--rarity = 17
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 60
+[Info   :BrutalCompanyPlus] Centipede--rarity = 73
+[Info   :BrutalCompanyPlus] Blob--rarity = 87
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 40
+[Info   :BrutalCompanyPlus] Spring--rarity = 5
+[Info   :BrutalCompanyPlus] Crawler--rarity = 35
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 66
+[Info   :BrutalCompanyPlus] Jester--rarity = 47
+[Info   :BrutalCompanyPlus] Puffer--rarity = 71
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 1
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 26
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 47
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 72
+[Warning:BrutalCompanyPlus] Centipede rarity set to 69
+[Warning:BrutalCompanyPlus] Blob rarity set to 80
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 17
+[Warning:BrutalCompanyPlus] Spring rarity set to 33
+[Warning:BrutalCompanyPlus] Crawler rarity set to 49
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 73
+[Warning:BrutalCompanyPlus] Jester rarity set to 4
+[Warning:BrutalCompanyPlus] Puffer rarity set to 72
+[Warning:BrutalCompanyPlus] Map Objects
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 26
+[Info   :BrutalCompanyPlus] Lasso--rarity = 47
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 72
+[Info   :BrutalCompanyPlus] Centipede--rarity = 69
+[Info   :BrutalCompanyPlus] Blob--rarity = 80
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 17
+[Info   :BrutalCompanyPlus] Spring--rarity = 33
+[Info   :BrutalCompanyPlus] Crawler--rarity = 49
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 73
+[Info   :BrutalCompanyPlus] Jester--rarity = 4
+[Info   :BrutalCompanyPlus] Puffer--rarity = 72
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 1 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 1 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 1 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 2
+[Info   :BrutalCompanyPlus] Added Enemy: > Centipede < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > SandSpider < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > HoarderBug < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > Flowerman < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > Crawler < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > Blob < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > DressGirl < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > PufferEnemy < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > SpringMan < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > JesterEnemy < to the Enemy list
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Centipede rarity set to 83
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 61
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 72
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 25
+[Warning:BrutalCompanyPlus] Crawler rarity set to 27
+[Warning:BrutalCompanyPlus] Blob rarity set to 96
+[Warning:BrutalCompanyPlus] Girl rarity set to 43
+[Warning:BrutalCompanyPlus] Puffer rarity set to 81
+[Warning:BrutalCompanyPlus] Spring rarity set to 7
+[Warning:BrutalCompanyPlus] Jester rarity set to 36
+[Warning:BrutalCompanyPlus] Map Objects
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Centipede--rarity = 83
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 61
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 72
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 25
+[Info   :BrutalCompanyPlus] Crawler--rarity = 27
+[Info   :BrutalCompanyPlus] Blob--rarity = 96
+[Info   :BrutalCompanyPlus] Girl--rarity = 43
+[Info   :BrutalCompanyPlus] Puffer--rarity = 81
+[Info   :BrutalCompanyPlus] Spring--rarity = 7
+[Info   :BrutalCompanyPlus] Jester--rarity = 36
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :BrutalCompanyPlus] Added Enemy: > HoarderBug < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > Crawler < to the Enemy list
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 31
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 78
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 67
+[Warning:BrutalCompanyPlus] Centipede rarity set to 95
+[Warning:BrutalCompanyPlus] Blob rarity set to 71
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 29
+[Warning:BrutalCompanyPlus] Spring rarity set to 8
+[Warning:BrutalCompanyPlus] Jester rarity set to 0
+[Warning:BrutalCompanyPlus] Puffer rarity set to 90
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 91
+[Warning:BrutalCompanyPlus] Crawler rarity set to 39
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Map Objects
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 0
+[Info   :BrutalCompanyPlus] Lasso--rarity = 0
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 0
+[Info   :BrutalCompanyPlus] Centipede--rarity = 0
+[Info   :BrutalCompanyPlus] Blob--rarity = 0
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 0
+[Info   :BrutalCompanyPlus] Spring--rarity = 0
+[Info   :BrutalCompanyPlus] Jester--rarity = 0
+[Info   :BrutalCompanyPlus] Puffer--rarity = 0
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 100
+[Info   :BrutalCompanyPlus] Crawler--rarity = 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :BrutalCompanyPlus] Added Enemy: > SpringMan < to the Enemy list
+[Info   :BrutalCompanyPlus] Added Enemy: > JesterEnemy < to the Enemy list
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Centipede rarity set to 78
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 88
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 90
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 8
+[Warning:BrutalCompanyPlus] Crawler rarity set to 26
+[Warning:BrutalCompanyPlus] Blob rarity set to 91
+[Warning:BrutalCompanyPlus] Girl rarity set to 32
+[Warning:BrutalCompanyPlus] Puffer rarity set to 68
+[Warning:BrutalCompanyPlus] Spring rarity set to 4
+[Warning:BrutalCompanyPlus] Jester rarity set to 22
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Map Objects
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Centipede--rarity = 78
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 88
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 90
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 8
+[Info   :BrutalCompanyPlus] Crawler--rarity = 26
+[Info   :BrutalCompanyPlus] Blob--rarity = 91
+[Info   :BrutalCompanyPlus] Girl--rarity = 100
+[Info   :BrutalCompanyPlus] Puffer--rarity = 68
+[Info   :BrutalCompanyPlus] Spring--rarity = 4
+[Info   :BrutalCompanyPlus] Jester--rarity = 22
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 23
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 70
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 99
+[Warning:BrutalCompanyPlus] Centipede rarity set to 93
+[Warning:BrutalCompanyPlus] Blob rarity set to 90
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 6
+[Warning:BrutalCompanyPlus] Spring rarity set to 45
+[Warning:BrutalCompanyPlus] Crawler rarity set to 27
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 96
+[Warning:BrutalCompanyPlus] Jester rarity set to 18
+[Warning:BrutalCompanyPlus] Puffer rarity set to 84
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Map Objects
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 0
+[Info   :BrutalCompanyPlus] Lasso--rarity = 0
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 0
+[Info   :BrutalCompanyPlus] Centipede--rarity = 100
+[Info   :BrutalCompanyPlus] Blob--rarity = 0
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 0
+[Info   :BrutalCompanyPlus] Spring--rarity = 0
+[Info   :BrutalCompanyPlus] Crawler--rarity = 0
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 0
+[Info   :BrutalCompanyPlus] Jester--rarity = 0
+[Info   :BrutalCompanyPlus] Puffer--rarity = 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 2 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 1
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Sending GrabItemIntoSlot to other clients.
+[Info   :ReservedItemSlotCore] Receiving GrabItemIntoSlot from Client: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 3 ClientId: 1
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 3 ClientId: 1
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Girl rarity set to 5
+[Warning:BrutalCompanyPlus] Name not found for Lasso rarity set to 88
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 61
+[Warning:BrutalCompanyPlus] Centipede rarity set to 91
+[Warning:BrutalCompanyPlus] Blob rarity set to 75
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 14
+[Warning:BrutalCompanyPlus] Spring rarity set to 0
+[Warning:BrutalCompanyPlus] Crawler rarity set to 28
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 99
+[Warning:BrutalCompanyPlus] Jester rarity set to 23
+[Warning:BrutalCompanyPlus] Puffer rarity set to 68
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Map Objects
+[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
+[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Girl--rarity = 5
+[Info   :BrutalCompanyPlus] Lasso--rarity = 88
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 61
+[Info   :BrutalCompanyPlus] Centipede--rarity = 91
+[Info   :BrutalCompanyPlus] Blob--rarity = 75
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 14
+[Info   :BrutalCompanyPlus] Spring--rarity = 0
+[Info   :BrutalCompanyPlus] Crawler--rarity = 28
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 99
+[Info   :BrutalCompanyPlus] Jester--rarity = 23
+[Info   :BrutalCompanyPlus] Puffer--rarity = 68
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 4 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 3
+[Info   :ReservedItemSlotCore] Updating hotbar slot: 0 ClientId: 3
+[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
+[Warning:BrutalCompanyPlus] Centipede rarity set to 60
+[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 60
+[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 90
+[Warning:BrutalCompanyPlus] Flowerman rarity set to 8
+[Warning:BrutalCompanyPlus] Crawler rarity set to 49
+[Warning:BrutalCompanyPlus] Blob rarity set to 96
+[Warning:BrutalCompanyPlus] Girl rarity set to 10
+[Warning:BrutalCompanyPlus] Puffer rarity set to 92
+[Warning:BrutalCompanyPlus] Spring rarity set to 46
+[Warning:BrutalCompanyPlus] Jester rarity set to 35
+[Warning:BrutalCompanyPlus] Map Objects
+[Warning:BrutalCompanyPlus] Enemies
+[Info   :BrutalCompanyPlus] Centipede--rarity = 60
+[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 60
+[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 90
+[Info   :BrutalCompanyPlus] Flowerman--rarity = 8
+[Info   :BrutalCompanyPlus] Crawler--rarity = 49
+[Info   :BrutalCompanyPlus] Blob--rarity = 96
+[Info   :BrutalCompanyPlus] Girl--rarity = 10
+[Info   :BrutalCompanyPlus] Puffer--rarity = 92
+[Info   :BrutalCompanyPlus] Spring--rarity = 46
+[Info   :BrutalCompanyPlus] Jester--rarity = 35
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 2
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 2 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 2 ClientId: 0
